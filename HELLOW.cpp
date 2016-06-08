@@ -2,11 +2,12 @@
 #include <iostream>
 using namespace std;
 
-//funcao principal
-int main() {
-	// imprimindo na tela
-	cout << "H E L L O  W O R L D!!" << endl;
 
-	//final do programa
-	return 0;
+int main() { //funcao principal
+	
+	cout << "H E L L O  W O R L D!!" << endl; //imprimindo na tela
+
+	
+	
+	return 0; //final do programa
 }
